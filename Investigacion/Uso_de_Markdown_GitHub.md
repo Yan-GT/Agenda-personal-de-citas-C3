@@ -6,7 +6,7 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 ### Encabezados
 Los encabezados se crean con el símbolo # seguido de un espacio. El número de # define el nivel del encabezado (1 es el nivel más alto).
 
-```markdown
+
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
@@ -53,4 +53,5 @@ La facilidad de uso de Markdown permite que cualquier miembro de un equipo de de
 
 #### Ejemplo:
 - *Pull Requests*: Cuando se crea una solicitud de extracción (Pull Request), los comentarios y la documentación dentro de ella pueden estar escritos en Markdown. Esto permite discutir cambios y proporcionar detalles fácilmente sin tener que salir de GitHub.
+
 
